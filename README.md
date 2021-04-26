@@ -9,3 +9,6 @@ Programming assignments and quizes of SQL for Data Science (Coursera) taught by 
 
 # Reference
 [SQL for Data Science - Universidad de California, Davis](https://www.coursera.org/learn/sql-for-data-science)
+
+# Certificate
+https://coursera.org/share/d737a68140befd036e1cfec934d2ce34
