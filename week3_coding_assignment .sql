@@ -5,7 +5,7 @@ Author : Francesco Camussoni
 Email: camussonif@gmail.com francesco.camussoni@ib.edu.ar
 GitHub: https://github.com/francescocamussoni
 linkedin: https://www.linkedin.com/in/francesco-camussoni-529079117/
-Description: week 2 Coding Assignment: SQL for Data Science - Universidad de California, Davis
+Description: week 3 Coding Assignment: SQL for Data Science - Universidad de California, Davis
 */
 
 /* Excercise 1 */
